@@ -1,7 +1,7 @@
 💻 Web & Android Automation Engineer | Ticketing Systems, Queue Simulations, JS & APK Analysis | Ethical QA & Performance Testing
 ________________________________________
 Overview / Description:
-🚀 I’m a specialized Automation & System Analysis Engineer with expertise in both web platforms and Android applications, focusing on ticketing ecosystems such as Ticketmaster, UEFA, and top football clubs. My work helps companies and engineering teams test, validate, and improve the performance, scalability, and security of their applications — ethically and with full client authorization.
+🚀 I’m a specialized Automation & System Analysis Engineer with expertise in both web platforms and Android applications, focusing on ticketing ecosystems such as Ticketmaster, UEFA, and top football clubs. My work helps companies and engineering teams test, validate, and improve the performance, scalability, and security of their applications — ethically and with full client authorization. <br/>
 I have a strong background in reverse engineering JavaScript and Android apps (APKs) for the purpose of understanding traffic behavior, improving system resilience, and supporting quality assurance in high-demand environments.
 ________________________________________
 🔧 What I Do:
